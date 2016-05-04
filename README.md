@@ -1,7 +1,7 @@
 # hello-world
 
 <php>
-  $var = "Ovo je test"
+  $var = "Ovo je TEST"
   
   echo <p> .$var </p>
 
